@@ -13,9 +13,8 @@
 ## Tecnolgias Utilizadas
 
 1. Node.js
-2. Express.js
-3. NestJS
-4. TypeORM
-5. Postgres
+2. NestJS
+3. TypeORM
+4. Postgres
 
 Autor: [Alexandre Coelho](https://github.com/coelhoalexandre)
