@@ -16,5 +16,6 @@
 2. NestJS
 3. TypeORM
 4. Postgres
+5. TypeScript
 
 Autor: [Alexandre Coelho](https://github.com/coelhoalexandre)
